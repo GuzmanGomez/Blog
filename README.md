@@ -1,5 +1,5 @@
 Guzmán Gómez Jose Francisco
-Rivero Blanco Marta Guadalupe 
+Rivero Blanco Marthha Guadalupe
 Muñoz Rodriguez Jessica
 https://blog3522gm.herokuapp.com/
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
